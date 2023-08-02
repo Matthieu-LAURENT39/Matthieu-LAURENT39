@@ -7,7 +7,7 @@ I also do 3D modeling and 3D printing in my free time, and i love reading mangas
 I'm also really fascinated by steganography and cryptography!
 
 ### 📩 Contact
-Matrix: `@matthieu.laurent:matrix.org`
+[Matrix](matrix.org): `@matthieu.laurent:matrix.org`
 
 <!--
 **Matthieu-LAURENT39/Matthieu-LAURENT39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
