@@ -1,9 +1,13 @@
-### Hello world!
+# Hello world!
 
+### 👤 About me
 I'm a french developper specializing in networking and APIs.  
 I love contributing to open-source projects, as well as making my own!  
 I also do 3D modeling and 3D printing in my free time, and i love reading mangas and VNs!  
 I'm also really fascinated by steganography and cryptography!
+
+### 📩 Contact
+Matrix: `@matthieu.laurent:matrix.org`
 
 <!--
 **Matthieu-LAURENT39/Matthieu-LAURENT39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
