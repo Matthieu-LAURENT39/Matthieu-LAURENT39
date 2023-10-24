@@ -3,8 +3,15 @@
 ### 👤 About me
 I'm a french developper specializing in networking and APIs.  
 I love contributing to open-source projects, as well as making my own!  
-I also do 3D modeling and 3D printing in my free time, and i love reading mangas and VNs!  
-I'm also really fascinated by steganography and cryptography!
+I also do 3D modeling and 3D printing in my free time, and i love reading mangas and VNs.  
+I'm also really fascinated by steganography and cryptography.
+
+### ⚙️ Programming langages, from most to least used
+- 🐍 Python
+- 🛠️ C/C++ (with Qt 🖼️)
+- 🌐 JavaScript
+- 🐘 PHP
+- 🦀 Rust
 
 ### 📩 Contact
 [Matrix](https://matrix.org): `@matthieu.laurent:matrix.org`
