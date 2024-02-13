@@ -9,9 +9,9 @@ I'm also really fascinated by steganography and cryptography.
 ### ⚙️ Programming langages, from most to least used
 - 🐍 Python
 - 🛠️ C/C++ (with Qt 🖼️)
+- 🦀 Rust
 - 🌐 JavaScript
 - 🐘 PHP
-- 🦀 Rust
 
 ### 📩 Contact
 [Matrix](https://matrix.org): `@matthieu.laurent:matrix.org`
