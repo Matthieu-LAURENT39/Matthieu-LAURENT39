@@ -8,13 +8,10 @@ I'm also really fascinated by steganography and cryptography.
 
 ### ⚙️ Programming langages, from most to least used
 - 🐍 Python
-- 🛠️ C/C++ (with Qt 🖼️)
 - 🦀 Rust
+- 🛠️ C/C++ (with Qt 🖼️)
 - 🌐 JavaScript
 - 🐘 PHP
-
-### 📩 Contact
-[Matrix](https://matrix.org): `@matthieu.laurent:matrix.org`
 
 <!--
 **Matthieu-LAURENT39/Matthieu-LAURENT39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
